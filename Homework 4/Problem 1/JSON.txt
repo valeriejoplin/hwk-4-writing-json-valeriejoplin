@@ -1,1 +1,14 @@
-﻿
+﻿{
+	"A" : [{
+	"Name": "The Winston",
+	"Menu": "Chambongs",
+	"Location": "Main street"
+	}],
+	"B": [{
+	"name ":"The Mont",
+	"menu": "Sooner Swirl, Cheese Fries, Margarita",
+	"Location": "Classen Blvd"
+	}],
+
+	"C" : "Both A & B together"
+}
